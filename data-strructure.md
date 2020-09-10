@@ -1,13 +1,8 @@
-What is MicroService Architecture?
 
-What is Event-Driven Programming in Node Js?
+- Find unique elements in Array?
 
-How to join two query results?
+- How to print string-reverse?
 
-How promises work in node JS?
+- Print 1 to 100 without Loop?
 
-Difference between call back and promises?
-
-How to write REST Endpoints?
-
-Callbacks vs Promises?
+https://github.com/tarun-nagpal-github/data-structure-practise-programs
