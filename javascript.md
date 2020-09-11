@@ -6,7 +6,7 @@ https://github.com/lydiahallie/javascript-questions﻿
 
 Difference between undefined and null?
 
--  What is the prototype chain? How the prototype works
+What is the prototype chain? How the prototype works
 <details>
   <summary>Answer</summary>
    
