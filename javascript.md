@@ -6,10 +6,20 @@ https://github.com/lydiahallie/javascript-questions﻿
 
 Difference between undefined and null?
 
-What is the prototype chain? How the prototype works
+-  What is the prototype chain? How the prototype works
+<details>
+  <summary>Answer</summary>
+   
+  https://medium.com/@chamikakasun/javascript-prototype-and-prototype-chain-explained-fdc2ec17dd04
+   
+</details>
+
+
+
+
 
 Difference between these Object ways ?
-```
+```javascript
 var obj1 = new Object();
 
 var obj2 = object.create(null);
@@ -35,7 +45,7 @@ How to differentiate b/w array and object in JS?
 What are Implicit Objects in JavaScript?
 
 What is the output?
-```
+```javascript
 "1"+2+3, 2+3+"8" 
 ```
 Is NaN == Nan ?
@@ -109,19 +119,15 @@ Why undefined === null is false
 
 What is the output of the below code and why ?
 
-```
-for (var i = 0; i < 5; i++)
-
-{
-
+```javascript
+for (var i = 0; i < 5; i++) {
      setTimeout(function() { console.log(i); }, i * 1000 );
-
 }
 ```
 
 What is the output ?
 
-```
+```javascript
 for (let i = 1; i < 5; i++) {
 
   setTimeout(function() { console.log(i); }, i * 1000);
@@ -131,7 +137,7 @@ for (let i = 1; i < 5; i++) {
 
 What is the output ?
 
-```
+```javascript
 function foo(i) {
 
   setTimeout(function() { console.log(i); }, i * 1000);
@@ -140,7 +146,7 @@ function foo(i) {
 ```
 
 What is the output ?
-```
+```javascript
 for (var i = 1; i < 5; ++i)
 
 foo(i); 
@@ -149,14 +155,14 @@ foo(i); 
 
 What is the output of the following code and why ?
 
-```
+```javascript
 console.log(1 + "2" + "2"); 
 ```
 
 
 What is the output of the following code and why ?
 
-```
+```javascript
 var x = 21;
 
 var girl = function () {
