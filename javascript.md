@@ -10,7 +10,7 @@ What is the prototype chain? How the prototype works
 <details>
   <summary>Answer</summary>
    
-  https://medium.com/@chamikakasun/javascript-prototype-and-prototype-chain-explained-fdc2ec17dd04
+  https://dev.to/tarun_geek/inheritance-in-javasript-40lj
    
 </details>
 
