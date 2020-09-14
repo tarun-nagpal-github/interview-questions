@@ -30,7 +30,17 @@ var obj4 = {};
 ```
 What is a deep copy and shallow copy?
 
+<details>
+  <summary>Answer</summary>
+  https://www.javascripttutorial.net/object/3-ways-to-copy-objects-in-javascript/
+</details>
+
 How to deep copy and object of objects?
+
+<details>
+  <summary>Answer</summary>
+  https://www.javascripttutorial.net/object/3-ways-to-copy-objects-in-javascript/
+</details>
 
 What are the Array Methods that do not change the original Array?
 
